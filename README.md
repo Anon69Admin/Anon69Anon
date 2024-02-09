@@ -1,31 +1,9 @@
-<p align="center">
-<a href="#"><img title="Made by Heart" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+
 </p>
 <p align="center">
 <a href="#"><img title="Tool Name" src="https://img.shields.io/badge/Tool-DDoS-green.svg"></a>
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.2.3-green.svg?style=flat-square"></a>
-<a href="#"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-</p>
-<p align="center">
-<a href="https://github.com/Anon69Admin/Anon69Anon"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=fazaleazeemazeem@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Anon69Admin/Anon69Anon"><img title="Followers" src="https://img.shields.io/github/followers/BINOD-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Anon69Admin/Anon69Anon"><img title="Stars" src="https://img.shields.io/github/stars/Anon69?color=red&style=flat-square"></a>
-<a href="https://github.com/BAnon-Xd"><img title="Forks" src="https://img.shields.io/https://github.com/Anon69Admin/Anon69Anon?color=red&style=flat-square"></a>
-<a href="https://github.com/Anon69Admin/Anon69Anon"><img title="Watching" src="https://img.shields.io/github/watchers/N
-Anon69?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<p align="center">  
-<a href="#"><img title="Language" src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=termux"></a>
-</p>
 
-<p align="center">
- <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
- </div>
-</p>
 <p align="center">
  Terminal only accepts ANSI color.<br>
  Username: reyadxshipu<br>
@@ -87,8 +65,8 @@ sudo apt-get install npm -y
 - Using vps with high speed will be stronger
 
 ```
-git clone https://github.com/BINOD-XD/RXS-DDoS/
-cd RXS-DDoS
+git clone https://github.com/Anon69Admin/Anon69Anon
+cd Anon69Anon
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
