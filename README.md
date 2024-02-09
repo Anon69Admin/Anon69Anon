@@ -9,7 +9,7 @@
  Username: reyadxshipu<br>
  Password: rxs<br>
 </p>
-<p align="center">  <a href="https://t.me/teamrxs"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<p align="center">  <a href="https://t.me/THEANON69"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 ## ABOUT TOOL :
 
@@ -100,7 +100,7 @@ remember: you are responsible for the attacks since this tool was created for ed
 <br>
 
 ## CONNECT WITH US
-TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/THEANON69)
+TELEGRAM-CHANNEL https://t.me/THEANON69
 
 #### FUCK THE ISREAIL 👿 THIS TOOL IS CREATED BY @TeamFxl
 
